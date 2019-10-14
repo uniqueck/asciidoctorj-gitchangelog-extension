@@ -86,6 +86,12 @@
             <version>${asciidoctorj.version}</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.eclipse.jgit</groupId>
+            <artifactId>org.eclipse.jgit</artifactId>
+            <version>5.5.1.201910021850-r</version>
+        </dependency>
+
 
     </dependencies>
 
